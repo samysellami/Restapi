@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uploa",
+				"upload_update_image"
+			],
+			[
+				"cfe",
+				"cfe2"
+			],
+			[
+				"app",
+				"appEl"
+			],
+			[
+				"Reac",
+				"ReactDom"
+			],
+			[
+				"std",
+				"std"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"action",
+				"actions_diff"
+			],
+			[
+				"actio",
+				"actions_diff"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"dis",
+				"dist_goal"
+			],
+			[
+				"dist",
+				"dist_goal"
+			],
+			[
+				"distance",
+				"distance_to_goal"
+			],
+			[
+				"best",
+				"best_action"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"quater",
+				"quater"
+			],
+			[
+				"bes",
+				"best_action"
+			],
+			[
+				"mean",
+				"mean_actions"
+			],
+			[
+				"phi_y",
+				"phi_y"
+			],
+			[
+				"phi_x",
+				"phi_x"
+			],
+			[
+				"blog",
+				"blog_list"
+			],
+			[
+				"sear",
+				"search_view"
+			],
+			[
+				"phi",
+				"phi_z"
+			],
+			[
+				"static",
+				"STATIC_URL"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"publi",
+				"published"
+			],
+			[
+				"get",
+				"get_queryset"
+			],
+			[
+				"BlogPost",
+				"BlogPostManager"
+			],
+			[
+				"Blog",
+				"BlogPostManager"
+			],
+			[
+				"publish",
+				"publish_date"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"log",
+				"log_path"
+			],
+			[
+				"call",
+				"callbacks"
+			],
+			[
+				"check",
+				"CheckpointCallback"
+			],
+			[
+				"optimi",
+				"optimize"
+			],
+			[
+				"opti",
+				"optimize"
+			],
+			[
+				"confi",
+				"configs"
+			],
+			[
+				"hyper",
+				"hyperparams_path"
+			],
+			[
+				"Al",
+				"ALGOS"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"rese",
+				"rescaled_action"
+			],
+			[
+				"distan",
+				"distance_to_goal"
+			],
+			[
+				"act",
+				"action"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"rescla",
+				"rescaled_action"
+			],
+			[
+				"e",
+				"episode_rewards"
+			],
+			[
+				"evalu",
+				"evaluate_policy"
+			],
+			[
+				"ba",
+				"batch_size"
+			],
+			[
+				"inv",
+				"invKine"
+			],
+			[
+				"algo",
+				"algo"
+			],
+			[
+				"epise",
+				"episode_rewards"
+			],
+			[
+				"st",
+				"std_reward"
+			],
+			[
+				"episode",
+				"episode_rewards"
+			],
+			[
+				"dir",
+				"log_dir"
+			],
+			[
+				"inti",
+				"_initial_distance"
+			],
+			[
+				"n_e",
+				"n_eval_episodes"
+			],
+			[
+				"eva",
+				"eval_callback"
+			],
+			[
+				"init",
+				"_initial_distance"
+			],
+			[
+				"eval",
+				"eval_env"
+			],
+			[
+				"pro",
+				"progress_callback"
+			],
+			[
+				"position",
+				"position_prms"
+			],
+			[
+				"p_z",
+				"p_z"
+			],
+			[
+				"step",
+				"step_limit"
+			],
+			[
+				"q",
+				"_q"
+			],
+			[
+				"con",
+				"_count"
+			],
+			[
+				"goal",
+				"set_goal"
+			],
+			[
+				"join",
+				"joint5"
+			],
+			[
+				"joi",
+				"joint4"
+			],
+			[
+				"joint",
+				"joint3"
+			],
+			[
+				"H",
+				"H_56"
+			],
+			[
+				"kine",
+				"kinematics"
+			],
+			[
+				"p",
+				"p_y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/updates/models.py",
+			"settings":
+			{
+				"buffer_size": 618,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/updates/admin.py",
+			"settings":
+			{
+				"buffer_size": 107,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi"
+	],
+	"file_history":
+	[
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi/src/cfeapi/settings.py",
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi/src/manage.py",
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi/lib/python3.6/site-packages/django/core/management/__init__.py",
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi/lib/python3.6/site-packages/django/conf/global_settings.py",
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi/lib/python3.6/site-packages/django/conf/__init__.py",
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi/lib/python3.6/site-packages/django/db/models/sql/__init__.py",
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi/lib/python3.6/site-packages/django/db/models/sql/constants.py",
+		"/home/sami/Documents/CodingTasks/Web_developement/restapi/cfeapi.sublime-project",
+		"/home/sami/Documents/P.h.D/P.h.D_codes/sources&tests/PyRep/examples/Ur5_robot/test.py",
+		"/home/sami/Documents/P.h.D/P.h.D_codes/sources&tests/PyRep/examples/example_baxter_pick_and_pass.py",
+		"/home/sami/Documents/P.h.D/P.h.D_codes/sources&tests/PyRep/examples/example_panda_reach_target.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/updates/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/updates/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cfeapi.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
